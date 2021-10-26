@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Im a person from the US intested in programming and the future, Welcome!
+
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai)
 ![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact)
 
