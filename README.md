@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=TubaPlayer&show_icons=true&count_private=true&theme=monokai)
-
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai)
+![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact)
 
 <!--
 **tubaplayerdis/tubaplayerdis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
