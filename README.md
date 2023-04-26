@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nerdy GymBro with hobbies
+I Genuinley dont know anymore
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai)
 ![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact)
