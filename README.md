@@ -2,8 +2,8 @@
 
 High Schooler
 
-SBD specialist
-S: 365, B: 315, D:455
+Bench specialist
+S: 405, B: 335, D:545
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai)
 ![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact)
