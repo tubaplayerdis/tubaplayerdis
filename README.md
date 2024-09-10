@@ -15,7 +15,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - UIKit desktop adaptation
      - Make UIKit work and be programmable on a desktop enviroment without a ti-nspire emulator.
  - JReverse
-     - Making a installer application and patching bugs
+     - Making an installer application and patching bugs
  - Website
      - Writing up project overviews and developing pages for <a href="https://aaronwilk.dev" target="_tab">My Website</a>
 ### Github Stats
