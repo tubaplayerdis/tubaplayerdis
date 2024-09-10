@@ -24,6 +24,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - TypeScript
  - Bootstrap
  - Node.js
+ - Discord.js
 
 ### Application Technologies 💻
  - C
