@@ -59,7 +59,7 @@ I do almost any type of programming I can , approching every challenge with an o
 
 - Vex Robotics C++/Python
 - PyGame
-- AP CSA Java
+- Advanced Fusion 360
 
 ### Languages Use
 
