@@ -9,7 +9,7 @@ Im a computer science and engineering enthusiast creating applications for fun.
 
 ### What I do
 
-I do almost any type of programming I can , approching every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. While some of my work is on github, some of what I do does not have enough substance to be uploaded to github. I am really passionate about systems programming and electrical engineering, and plan to study it in college.
+I do almost any type of programming I can , approching every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. While some of my work is on github, some of what I do does not have enough substance to be uploaded to github. I am really passionate about systems programming and electrical engineering, and plan to study it in college. I also spend time taking on mechanical enginnering projects like Vex Robotics and DIY sim racing cockpits.
 
 ### Github Stats
 
