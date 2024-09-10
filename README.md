@@ -4,7 +4,7 @@ Im a computer science and engineering enthusiast creating applications for fun.
 
 <details>
 <summary>
-  More stuff about me
+  Details
 </summary>
 
 ### What I do
