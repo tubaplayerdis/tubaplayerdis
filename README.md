@@ -17,7 +17,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - JReverse
      - Making a installer application and patching bugs
  - Website
-     - Writing up project overviews and developing pages for [My Website](https://aaronwilk.dev){:target="_blank"}
+     - Writing up project overviews and developing pages for <a href="https://aaronwilk.dev" target="_blank">My Website</a>
 ### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=react)
