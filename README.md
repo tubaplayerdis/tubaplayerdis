@@ -1,17 +1,23 @@
 ### Hi there 👋
 
-Im a comp sci and engineering enthusiast creating applications for fun.
+Im a computer science and engineering enthusiast creating applications for fun.
 
 <details>
 <summary>
   More stuff about me
 </summary>
 
-###Github Stats
+### What I do
+
+I do almost any type of programming I can , approching every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. While some of my work is on github, some of what I do does not have enough substance to be uploaded to github. I am really passionate about systems programming and electrical engineering, and plan to study it in college.
+
+### Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai)
 
-###Web Technologies
+## My skills 📜
+
+### Web Technologies
  - JavaScript
  - HTML
  - CSS
@@ -19,7 +25,7 @@ Im a comp sci and engineering enthusiast creating applications for fun.
  - Bootstrap
  - Node.js
 
-###Application Technologies
+### Application Technologies
  - C
  - C++
  - Boost C++
@@ -35,14 +41,27 @@ Im a comp sci and engineering enthusiast creating applications for fun.
  - WPF C#
  - WinUI 3 C#
  - Python
- - PyGame
  - Beamng Lua
 
-###Integrated System Technologies
+### Integrated System Technologies
  - Raspberry PI
  - Arduino
  - TI-Nspire
  - Micropython
+
+### Operating Systems
+ - Windows 10/11
+ - Raspbian
+ - Chrome OS
+ - Debian
+
+## What I'm currently learning 📚
+
+- Vex Robotics C++/Python
+- PyGame
+- AP CSA Java
+
+### Languages Use
 
 ![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact)
 
