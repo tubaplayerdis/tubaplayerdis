@@ -13,7 +13,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
 
 ### Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=tubaplayerdis&show_icons=true&count_private=true&theme=react)
 
 ## My skills 📜
 
@@ -63,6 +63,6 @@ I do almost any type of programming I can, although with an emphasis on systems 
 
 ### Languages Use
 
-![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=monokai&langs_count=10&layout=compact)
+![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=react&langs_count=10&layout=compact)
 
 </details>
