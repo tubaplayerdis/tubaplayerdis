@@ -17,7 +17,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
 
 ## My skills 📜
 
-### Web Technologies
+### Web Technologies 🌐
  - JavaScript
  - HTML
  - CSS
@@ -25,7 +25,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - Bootstrap
  - Node.js
 
-### Application Technologies
+### Application Technologies 💻
  - C
  - C++
  - Boost C++
@@ -43,13 +43,13 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - Python
  - Beamng Lua
 
-### Integrated System Technologies
+### Integrated System Technologies 💾
  - Raspberry PI
  - Arduino
  - TI-Nspire
  - Micropython
 
-### Operating Systems
+### Operating Systems 🖥️
  - Windows 10/11
  - Raspbian
  - Chrome OS
