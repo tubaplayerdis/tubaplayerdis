@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 Im a computer science and engineering enthusiast creating applications for fun.
 
