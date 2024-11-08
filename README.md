@@ -12,8 +12,12 @@ Im a computer science and engineering enthusiast creating applications for fun.
 I do almost any type of programming I can, although with an emphasis on systems and desktop application programming. I approach every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. While most of my work is on github, some of what I do does not have enough substance to be uploaded to github. I am really passionate about systems programming and electrical engineering, and plan to study it in college. I also spend time taking on mechanical enginnering projects such as building DIY sim racing cockpits and building robots for Vex Robotics competitions.
 
 ### What im working on
+ - Vex Robotics
+     - Physical Construction
+     - Programming
+     - Reverse Engineering
  - UIKit desktop adaptation
-     - Make UIKit work and be programmable on a desktop enviroment without a ti-nspire emulator.
+     - Publishing and shipping desktop port
  - JReverse
      - Making an installer application and patching bugs
  - Website
@@ -36,6 +40,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
 ### Application Technologies 💻
  - C
  - C++
+ - Vex V5 C++
  - Boost C++
  - WinUI 3 C++
  - OpenGl
@@ -49,6 +54,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - WPF C#
  - WinUI 3 C#
  - Python
+ - Vex Python
  - Beamng Lua
 
 ### Integrated System Technologies 💾
@@ -56,18 +62,20 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - Arduino
  - TI-Nspire
  - Micropython
+ - Arm
 
 ### Operating Systems 🖥️
  - Windows 10/11
  - Raspbian
  - Chrome OS
  - Debian
+ - Vexos
 
 ## What I'm currently learning 📚
 
-- Vex Robotics C++/Python
-- PyGame
-- Advanced Fusion 360
+- Ghidra
+- Assembly
+- Reverse Engineering
 
 ### Languages Use
 
