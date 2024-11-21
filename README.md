@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Im a computer science and engineering enthusiast creating applications for fun.
+Im a computer science and engineering student programing for fun.
 
 <details>
 <summary>
