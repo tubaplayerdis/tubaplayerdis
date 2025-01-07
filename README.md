@@ -54,7 +54,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - WPF C#
  - WinUI 3 C#
  - Python
- - Vex Python
+ - Vex Micropython
  - Beamng Lua
 
 ### Integrated System Technologies 💾
@@ -62,7 +62,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - Arduino
  - TI-Nspire
  - Micropython
- - Arm
+ - Vex Brain
 
 ### Operating Systems 🖥️
  - Windows 10/11
@@ -76,6 +76,13 @@ I do almost any type of programming I can, although with an emphasis on systems 
 - Ghidra
 - Assembly
 - Reverse Engineering
+
+## Recent Accomplishments 🎉
+
+- JSON based JIT interpreter for developing automation routines
+- Proprietary scripting api enabling a real time Python to Java bridge
+- Custom UI for library for VexOS
+- Cross platform UI Library for TI-Npsire calcualtors and Desktop Applications.
 
 ### Languages Use
 
