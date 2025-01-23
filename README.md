@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Im a computer science and engineering student programing for fun.
+Junior in high school with a passion for Programming and Engineering
 
 <details>
 <summary>
@@ -87,5 +87,12 @@ I do almost any type of programming I can, although with an emphasis on systems 
 ### Languages Use
 
 ![UsedL anguages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaplayerdis&show_icons=true&count_private=true&theme=react&langs_count=10&layout=compact)
+
+## Favorite Games 🎮
+
+- Brick Rigs
+- Beamng Drive
+- Minecraft
+- Teardown
 
 </details>
