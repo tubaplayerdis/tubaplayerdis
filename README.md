@@ -9,17 +9,19 @@ Junior in high school with a passion for Programming and Engineering
 
 ### What I do
 
-I do almost any type of programming I can, although with an emphasis on systems and desktop application programming. I approach every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. While most of my work is on github, some of what I do does not have enough substance to be uploaded to github. I am really passionate about systems programming and electrical engineering, and plan to study it in college. I also spend time taking on mechanical enginnering projects such as building DIY sim racing cockpits and building robots for Vex Robotics competitions.
+I do almost any type of programming I can, although with an emphasis on systems programming and reverse engineering. I approach every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. I am really passionate about systems programming and reverse engineering, and plan to study it in college. I also spend time taking on mechanical enginnering projects such as building DIY sim racing cockpits and building robots for Vex Robotics competitions.
 
 ### What im working on
+ - Brick Rigs Command Interpreter
+     - Reverse Enginnering using IDA and Ghidra
+     - Learing to write ASM
+     - Writing a command interpreter
  - Vex Robotics
+     - CAD Modeling (Fusion 360)
      - Physical Construction
      - Programming
-     - Reverse Engineering
- - UIKit desktop adaptation
-     - Publishing and shipping desktop port
  - JReverse
-     - Making an installer application and patching bugs
+     - Making an installer application and re-factoring spagetti
  - Website
      - Writing up project overviews and developing pages for <a href="https://aaronwilk.dev" target="_tab">My Website</a>
 ### Github Stats
@@ -56,6 +58,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - Python
  - Vex Micropython
  - Beamng Lua
+ - Assembly
 
 ### Integrated System Technologies 💾
  - Raspberry PI
