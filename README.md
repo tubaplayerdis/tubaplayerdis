@@ -21,7 +21,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
      - Physical Construction
      - Programming
  - JReverse
-     - Making an installer application and re-factoring spagetti
+     - Making an installer application and re-factoring spagetti code
  - Website
      - Writing up project overviews and developing pages for <a href="https://aaronwilk.dev" target="_tab">My Website</a>
 ### Github Stats
