@@ -42,6 +42,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
 ### Application Technologies 💻
  - C
  - C++
+ - Unreal Engine C++
  - Vex V5 C++
  - Boost C++
  - WinUI 3 C++
@@ -65,7 +66,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
  - Arduino
  - TI-Nspire
  - Micropython
- - Vex Brain
+ - Vex V5 Brain
 
 ### Operating Systems 🖥️
  - Windows 10/11
@@ -82,6 +83,7 @@ I do almost any type of programming I can, although with an emphasis on systems 
 
 ## Recent Accomplishments 🎉
 
+- First to make a DLL based mod for Brick Rigs without source code access
 - JSON based JIT interpreter for developing automation routines
 - Proprietary scripting api enabling a real time Python to Java bridge
 - Custom UI for library for VexOS
