@@ -12,10 +12,8 @@ Junior in high school with a passion for Programming and Engineering
 I do almost any type of programming I can, although with an emphasis on systems programming and reverse engineering. I approach every challenge with an open mindset and being ready to learn. I have spent time around a multitude of operating systems, programming languges and other systems requiring me to constantly learn new technologies. I am really passionate about systems programming and reverse engineering, and plan to study it in college. I also spend time taking on mechanical enginnering projects such as building DIY sim racing cockpits and building robots for Vex Robotics competitions.
 
 ### What im working on
- - Brick Rigs Command Interpreter
-     - Reverse Enginnering using IDA and Ghidra
-     - Learing to write ASM
-     - Writing a command interpreter
+ - Brick Rigs Server Director & Editor Tweaks
+     - Pushing Features
  - Vex Robotics
      - CAD Modeling (Fusion 360)
      - Physical Construction
