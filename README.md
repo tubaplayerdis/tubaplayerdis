@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Junior in high school with a passion for Programming and Engineering
+Senior in high school with a passion for Programming and Engineering
 
 <details>
 <summary>
