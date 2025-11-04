@@ -7,17 +7,15 @@ Senior in high school with a passion for Programming and Engineering
   Details
 </summary>
 
-### What I do
+### How I work
 
 Mortality is invevitable. Time is limited. Might as well take atvantage of it.
 
 ### What im working on
- - Brick Rigs Server Director & Editor Tweaks
-     - Pushing Features
  - Vex Robotics
      - CAD Modeling (Fusion 360)
      - Physical Construction
-     - Programming
+     - Programming (Titanselect) (Autonomous Routines)
  - JReverse
      - Making an installer application and re-factoring spagetti code
  - Website
@@ -64,7 +62,7 @@ Mortality is invevitable. Time is limited. Might as well take atvantage of it.
  - Arduino
  - TI-Nspire
  - Micropython
- - Vex V5 Brain
+ - Vex V5
 
 ### Operating Systems 🖥️
  - Windows 10/11
