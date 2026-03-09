@@ -7,10 +7,6 @@ Senior in high school with a passion for Programming and Engineering
   Details
 </summary>
 
-### How I work
-
-Mortality is invevitable. Time is limited. Might as well take atvantage of it.
-
 ### What im working on
  - Vex Robotics
      - CAD Modeling (Fusion 360)
