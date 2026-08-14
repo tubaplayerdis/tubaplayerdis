@@ -69,9 +69,8 @@ Senior in high school with a passion for Programming and Engineering
 
 ## What I'm currently learning 📚
 
-- Ghidra
-- Assembly
-- Reverse Engineering
+- ASM (x86)
+- DSA (Class)
 
 ## Recent Accomplishments 🎉
 
