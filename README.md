@@ -74,11 +74,7 @@ Senior in high school with a passion for Programming and Engineering
 
 ## Recent Accomplishments 🎉
 
-- First to make a DLL based mod for Brick Rigs without source code access
-- JSON based JIT interpreter for developing automation routines
-- Proprietary scripting api enabling a real time Python to Java bridge
-- Custom UI for library for VexOS
-- Cross platform UI Library for TI-Npsire calcualtors and Desktop Applications.
+- VRC Pushback 2nd Highest (World) Autonomous Skills Score
 
 ### Languages Use
 
