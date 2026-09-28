@@ -1,6 +1,6 @@
-### Hello 👋
+### Wassup 👋
 
-Senior in high school with a passion for Programming and Engineering
+Feshman in university with a passion for Programming and Engineering
 
 <details>
 <summary>
@@ -8,13 +8,16 @@ Senior in high school with a passion for Programming and Engineering
 </summary>
 
 ### What im working on
- - Vex Robotics
-     - CAD Modeling (Fusion 360)
-     - Physical Construction
-     - Programming (Titanselect) (Autonomous Routines)
- - JReverse
-     - Making an installer application and re-factoring spagetti code
+ - Systems Programming (University)
+     - Learning ARM ASM
+     - Learning low level networking w/ C
+     - Refreshing myself on C
+ - Brick Rigs Modding
+     - Making a modding kit compatible version of BR-SDK
+     - Creating a blueprint exposed property system
+     - Working on my personal mod menu
  - Website
+     - Professionalizing website content
      - Writing up project overviews and developing pages for <a href="https://aaronwilk.dev" target="_tab">My Website</a>
 ### Github Stats
 
@@ -69,7 +72,7 @@ Senior in high school with a passion for Programming and Engineering
 
 ## What I'm currently learning 📚
 
-- ASM (x86)
+- ASM (ARM)
 - DSA (Class)
 
 ## Recent Accomplishments 🎉
